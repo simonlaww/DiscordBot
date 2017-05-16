@@ -1,0 +1,17 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "random discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "nodemon bot.js"
+  },
+  "author": "Simon Law",
+  "dependencies": {
+    "discord.js-music": "^1.0.3",
+    "discordie": "^0.11.0",
+    "reddit-oauth-helper": "^0.3.0",
+    "request": "^2.81.0",
+    "snoowrap": "^1.13.0"
+  }
+}
